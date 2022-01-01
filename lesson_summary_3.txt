@@ -1,0 +1,5 @@
+前回の内容
+gitは？
+add -> commit -> push
+
+トークンかsshkeyの設定はしないといけないよ！
